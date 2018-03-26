@@ -1,0 +1,140 @@
+fileFormatVersion: 2
+guid: abfe1c996b675024983c9f588dbaa9f5
+timeCreated: 1522086125
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Aorta
+    100004: Heart_title
+    100006: Left Atrium
+    100008: Pulmonary Artery
+    100010: Pulmonary Trunk
+    100012: Pulmonary Veins
+    100014: Right atrium
+    100016: Scroll over
+    100018: Ventricles
+    400000: //RootNode
+    400002: Aorta
+    400004: Heart_title
+    400006: Left Atrium
+    400008: Pulmonary Artery
+    400010: Pulmonary Trunk
+    400012: Pulmonary Veins
+    400014: Right atrium
+    400016: Scroll over
+    400018: Ventricles
+    2100000: 'Material #2'
+    2300000: Aorta
+    2300002: Heart_title
+    2300004: Left Atrium
+    2300006: Pulmonary Artery
+    2300008: Pulmonary Trunk
+    2300010: Pulmonary Veins
+    2300012: Right atrium
+    2300014: Scroll over
+    2300016: Ventricles
+    3300000: Aorta
+    3300002: Heart_title
+    3300004: Left Atrium
+    3300006: Pulmonary Artery
+    3300008: Pulmonary Trunk
+    3300010: Pulmonary Veins
+    3300012: Right atrium
+    3300014: Scroll over
+    3300016: Ventricles
+    4300000: Left Atrium
+    4300002: Pulmonary Artery
+    4300004: Pulmonary Trunk
+    4300006: Right atrium
+    4300008: Pulmonary Veins
+    4300010: Ventricles
+    4300012: Aorta
+    4300014: Scroll over
+    4300016: Heart_title
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #2'
+    second: {fileID: 2100000, guid: d8d8beccf4f02614184188281b2197ef, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,178 @@
+fileFormatVersion: 2
+guid: ec34356da5fa3f946931709116d609a8
+timeCreated: 1522073284
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Aorta
+    100002: //RootNode
+    100004: Interior_Aortic_Valve
+    100006: Interior_AV_valves
+    100008: Interior_Pulmonary_Valve
+    100010: L_Atrium
+    100012: L_Interior_Ventricle
+    100014: Pulmonary_Artery
+    100016: Pulmonary_Trunk
+    100018: Pulmonary_Veins
+    100020: R_Atrium
+    100022: R_Interior_Ventricle
+    100024: Superior_Venacava
+    100026: Ventricles
+    400000: Aorta
+    400002: //RootNode
+    400004: Interior_Aortic_Valve
+    400006: Interior_AV_valves
+    400008: Interior_Pulmonary_Valve
+    400010: L_Atrium
+    400012: L_Interior_Ventricle
+    400014: Pulmonary_Artery
+    400016: Pulmonary_Trunk
+    400018: Pulmonary_Veins
+    400020: R_Atrium
+    400022: R_Interior_Ventricle
+    400024: Superior_Venacava
+    400026: Ventricles
+    2100000: Heartint2
+    2100002: Heartint1
+    2100004: Heart3
+    2100006: Heart1
+    2300000: Aorta
+    2300002: Interior_Aortic_Valve
+    2300004: Interior_AV_valves
+    2300006: Interior_Pulmonary_Valve
+    2300008: L_Atrium
+    2300010: L_Interior_Ventricle
+    2300012: Pulmonary_Artery
+    2300014: Pulmonary_Trunk
+    2300016: Pulmonary_Veins
+    2300018: R_Atrium
+    2300020: R_Interior_Ventricle
+    2300022: Superior_Venacava
+    2300024: Ventricles
+    3300000: Aorta
+    3300002: Interior_Aortic_Valve
+    3300004: Interior_AV_valves
+    3300006: Interior_Pulmonary_Valve
+    3300008: L_Atrium
+    3300010: L_Interior_Ventricle
+    3300012: Pulmonary_Artery
+    3300014: Pulmonary_Trunk
+    3300016: Pulmonary_Veins
+    3300018: R_Atrium
+    3300020: R_Interior_Ventricle
+    3300022: Superior_Venacava
+    3300024: Ventricles
+    4300000: R_Interior_Ventricle
+    4300002: Interior_Pulmonary_Valve
+    4300004: L_Interior_Ventricle
+    4300006: Interior_AV_valves
+    4300008: Interior_Aortic_Valve
+    4300010: Ventricles
+    4300012: Aorta
+    4300014: Pulmonary_Artery
+    4300016: Pulmonary_Trunk
+    4300018: Superior_Venacava
+    4300020: Pulmonary_Veins
+    4300022: R_Atrium
+    4300024: L_Atrium
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Heart1
+    second: {fileID: 2100000, guid: 22ff594f3d0dcf149900ad78809b54e9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Heart3
+    second: {fileID: 2100000, guid: ba0a000c0c713274ea0149df965c71e8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Heartint1
+    second: {fileID: 2100000, guid: ab40eb337e53bdf47b662534e7a814de, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Heartint2
+    second: {fileID: 2100000, guid: 5c823ca8d17652a4f9f0383c05839eec, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
